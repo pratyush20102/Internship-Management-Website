@@ -1,13 +1,6 @@
-# Internship-Website-
-
-**STATUS: This is Open Sourced Internship Website Template **
+# Internship-Management-Website-
 
 ![Screenshot 2021-06-20 031329](https://user-images.githubusercontent.com/76607486/122656214-0c70d780-d176-11eb-82b9-0bb80eeaa9dc.jpg)
-
-
-
-
-
 
 ## How to use this
 
@@ -54,8 +47,8 @@ Your new HTML website will immediately have publishable and documented code, and
 ## Contact
 
 Harsh Pandey - (harsh20101@iiitnr.edu.in)  
-Abhishek Kerketta - (abhishek20101@iiitnr.edu.in)  
-Vishal Nitnaware - (vishal20102@iiitnr.edu.in)  
+Pratyush Parashar - (pratyush20102@iiitnr.edu.in)  
+Subhanshu Arya - (subhanshu20101@iiitnr.edu.in)  
 Project Link: [https://github.com/harshp77/Internship-Website-](https://github.com/harshp77/Internship-Website-)
 
 
