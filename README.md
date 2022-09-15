@@ -1,6 +1,4 @@
-# Internship-Management-Website-
-
-![Screenshot 2021-06-20 031329](https://user-images.githubusercontent.com/76607486/122656214-0c70d780-d176-11eb-82b9-0bb80eeaa9dc.jpg)
+# Internship Management Website for IIIT Naya Raipur
 
 ## How to use this
 
@@ -17,13 +15,11 @@ Now we continue to run the host server
   - [ ] Make sure to save the further changes via commands ``` python manage.py make migrations ``` and ``` python manage.py migrate ```
   
   
-# Internship Website
+# Internship Management Website
 
 ![](https://user-images.githubusercontent.com/76607486/122656358-73db5700-d177-11eb-9dc1-d919bd72b168.jpg)
 
 ![](https://user-images.githubusercontent.com/76607486/122656371-8a81ae00-d177-11eb-9772-fa42d0b0d6c7.jpg)
-
-![](https://user-images.githubusercontent.com/76607486/122656378-a4bb8c00-d177-11eb-91b2-feea2cbb107f.jpg)
  
 ## Features
 
@@ -49,8 +45,7 @@ Your new HTML website will immediately have publishable and documented code, and
 Harsh Pandey - (harsh20101@iiitnr.edu.in)  
 Pratyush Parashar - (pratyush20102@iiitnr.edu.in)  
 Subhanshu Arya - (subhanshu20101@iiitnr.edu.in)  
-Project Link: [https://github.com/harshp77/Internship-Website-](https://github.com/harshp77/Internship-Website-)
-
+Prtoject Link: [https://github.com/pratyush20102/Internship-Management-Website](https://github.com/pratyush20102/Internship-Management-Website)
 
 
 ## License
